@@ -1,12 +1,11 @@
 # Prefab Workflows - 3D Game Kit Project
-**Disclaimer: This Project Is Only Compatible With The Prefab Preview Build**
 ![3DGameKit-BigScreenshot.png](https://i.imgur.com/OmwQcXS.jpg)
 
 **Description**
 
-This Unity Project demonstrates the new Prefab Workflows available in a Preview Build at: https://unity3d.com/prefabs
+This Unity Project demonstrates the new Prefab Workflows available in Unity 2018.3. Currently, the project is on version 2018.3.0b1.
 
-The features are targetted for production-ready release in Unity 2018.3.
+For more information on the new workflows: https://unity3d.com/prefabs
 
 The project was used in the Unite Berlin 2018 Keynote to demonstrate:
 - Prefab Mode (With Auto-Save and New Editing Features)
